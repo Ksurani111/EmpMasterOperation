@@ -1,0 +1,52 @@
+﻿@model IEnumerable<EmployeeModel>
+
+<div id="alertMSG" class="alert alert-success">
+    @ViewData["Message"]
+</div>
+@{
+    TestApp.Library.BasicSalary basicSalary = new TestApp.Library.BasicSalary();
+    TestApp.Library.PFSalary pFSalary = new TestApp.Library.PFSalary();
+}
+<div class="row">
+    <div class="col-lg-2"><a onclick="startJobs();" class="btn btn-success">Hangfire Job Start</a></div>
+    <div class="col-lg-2"><a onclick="stopJobs();" class="btn btn-danger">Hangfire Job Stop</a></div>
+</div>
+
+<br />
+<table id="tblEmpList" class="table data-table">
+    <thead>
+        <tr>
+            <th>#EMP ID</th>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>City</th>
+            <th>Department</th>
+            <th>Salary</th>
+            <th>Basic(40%)</th>
+            <th>PF</th>
+            <th>Date Of Joining</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var emp in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(model => emp.ID)</td>
+                <td>@Html.DisplayFor(model => emp.FirstName)</td>
+                <td>@Html.DisplayFor(model => emp.LastName)</td>
+                <td>@Html.DisplayFor(model => emp.City)</td>
+                <td>@Html.DisplayFor(model => emp.Department)</td>
+                <td>@Html.DisplayFor(model => emp.Salary)</td>
+                <td>@basicSalary.getSalary(emp.Salary)</td>
+                <td>@pFSalary.getSalary(emp.Salary)</td>
+                <td>@Html.DisplayFor(model => emp.DOJ)</td>
+                <td>
+                    <a onclick="addEmployees(@emp.ID);" class="btn btn-success">Edit</a>&nbsp;
+                    <a onclick="deleteEmployees(@emp.ID);" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
