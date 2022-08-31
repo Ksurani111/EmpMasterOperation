@@ -792,11 +792,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ksura\\source\\repos\\TestApp\\TestApp\\TestApp.csproj",
+      "projectUniqueName": "C:\\Users\\ksura\\OneDrive\\Documents\\GitHub\\EmpMasterOperation\\TestApp\\TestApp.csproj",
       "projectName": "TestApp",
-      "projectPath": "C:\\Users\\ksura\\source\\repos\\TestApp\\TestApp\\TestApp.csproj",
+      "projectPath": "C:\\Users\\ksura\\OneDrive\\Documents\\GitHub\\EmpMasterOperation\\TestApp\\TestApp.csproj",
       "packagesPath": "C:\\Users\\ksura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ksura\\source\\repos\\TestApp\\TestApp\\obj\\",
+      "outputPath": "C:\\Users\\ksura\\OneDrive\\Documents\\GitHub\\EmpMasterOperation\\TestApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

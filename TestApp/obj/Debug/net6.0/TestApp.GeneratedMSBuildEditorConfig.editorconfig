@@ -8,53 +8,53 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TestApp
 build_property.RootNamespace = TestApp
-build_property.ProjectDir = C:\Users\ksura\source\repos\TestApp\TestApp\
+build_property.ProjectDir = C:\Users\ksura\OneDrive\Documents\GitHub\EmpMasterOperation\TestApp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ksura\source\repos\TestApp\TestApp
+build_property.MSBuildProjectDirectory = C:\Users\ksura\OneDrive\Documents\GitHub\EmpMasterOperation\TestApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ksura/source/repos/TestApp/TestApp/Views/DashBoard/Index.cshtml]
+[C:/Users/ksura/OneDrive/Documents/GitHub/EmpMasterOperation/TestApp/Views/DashBoard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaEJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ksura/source/repos/TestApp/TestApp/Views/Employee/Index.cshtml]
+[C:/Users/ksura/OneDrive/Documents/GitHub/EmpMasterOperation/TestApp/Views/Employee/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ksura/source/repos/TestApp/TestApp/Views/Employee/_AddUpdate.cshtml]
+[C:/Users/ksura/OneDrive/Documents/GitHub/EmpMasterOperation/TestApp/Views/Employee/_AddUpdate.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcX0FkZFVwZGF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ksura/source/repos/TestApp/TestApp/Views/Employee/_List.cshtml]
+[C:/Users/ksura/OneDrive/Documents/GitHub/EmpMasterOperation/TestApp/Views/Employee/_List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcX0xpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ksura/source/repos/TestApp/TestApp/Views/Home/Index.cshtml]
+[C:/Users/ksura/OneDrive/Documents/GitHub/EmpMasterOperation/TestApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ksura/source/repos/TestApp/TestApp/Views/Home/Privacy.cshtml]
+[C:/Users/ksura/OneDrive/Documents/GitHub/EmpMasterOperation/TestApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ksura/source/repos/TestApp/TestApp/Views/Shared/Error.cshtml]
+[C:/Users/ksura/OneDrive/Documents/GitHub/EmpMasterOperation/TestApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ksura/source/repos/TestApp/TestApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ksura/OneDrive/Documents/GitHub/EmpMasterOperation/TestApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ksura/source/repos/TestApp/TestApp/Views/_ViewImports.cshtml]
+[C:/Users/ksura/OneDrive/Documents/GitHub/EmpMasterOperation/TestApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ksura/source/repos/TestApp/TestApp/Views/_ViewStart.cshtml]
+[C:/Users/ksura/OneDrive/Documents/GitHub/EmpMasterOperation/TestApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ksura/source/repos/TestApp/TestApp/Views/Shared/_Layout.cshtml]
+[C:/Users/ksura/OneDrive/Documents/GitHub/EmpMasterOperation/TestApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-f9pjsk01n2
